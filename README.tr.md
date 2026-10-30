@@ -2,13 +2,11 @@
 
 # Astrology
 
-### Connect the question, the astrologer and the consultation.
-
-**Soruyu, astroloğu ve danışmanlığı bağlayın.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://astrology.mk/"><img src="assets/product-hero.svg" width="100%" alt="Astrology — AI astrology & consultations; conceptual product illustration" /></a>
+<img src="assets/product-hero.svg" width="100%" alt="Astrology — ürün görsel sunumu" />
+
+**Soruyu, astroloğu ve danışmanlığı bağlayın.**
 
 [![Website](https://img.shields.io/badge/astrology.mk-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://astrology.mk/)
 [![Explore](https://img.shields.io/badge/EXPLORE-Astrology-14223C?style=for-the-badge)](https://astrology.mk/)
@@ -17,8 +15,6 @@
 **LIVE**
 
 </div>
-
----
 
 ## Sorun ve çözüm
 
@@ -91,7 +87,7 @@ Değer keşifle danışmanlık arasındaki sürekliliktir. Site ve uygulamalar e
 | Resmî alan adı | [astrology.mk](https://astrology.mk/) |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
-| Kategori | AI astrology & consultations |
+| Kategori | AI astroloji ve danışmanlık |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
 | İş iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
 
@@ -111,5 +107,4 @@ Değer keşifle danışmanlık arasındaki sürekliliktir. Site ve uygulamalar e
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·

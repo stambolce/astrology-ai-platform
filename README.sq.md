@@ -2,13 +2,11 @@
 
 # Astrology
 
-### Connect the question, the astrologer and the consultation.
-
-**Lidhni pyetjen, astrologun dhe konsultimin.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://astrology.mk/"><img src="assets/product-hero.svg" width="100%" alt="Astrology — AI astrology & consultations; conceptual product illustration" /></a>
+<img src="assets/product-hero.svg" width="100%" alt="Astrology — prezantim vizual i produktit" />
+
+**Lidhni pyetjen, astrologun dhe konsultimin.**
 
 [![Website](https://img.shields.io/badge/astrology.mk-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://astrology.mk/)
 [![Explore](https://img.shields.io/badge/EXPLORE-Astrology-14223C?style=for-the-badge)](https://astrology.mk/)
@@ -17,8 +15,6 @@
 **LIVE**
 
 </div>
-
----
 
 ## Problemi dhe zgjidhja
 
@@ -91,7 +87,7 @@ Vlera është vazhdimësia nga zbulimi te konsultimi. Faqja dhe aplikacionet jap
 | Domeni zyrtar | [astrology.mk](https://astrology.mk/) |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
-| Kategoria | AI astrology & consultations |
+| Kategoria | Astrologji AI dhe konsultime |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
 | Kontakti tregtar | [contact@processin.mk](mailto:contact@processin.mk) |
 
@@ -111,5 +107,4 @@ Vlera është vazhdimësia nga zbulimi te konsultimi. Faqja dhe aplikacionet jap
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
